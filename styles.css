@@ -40,6 +40,10 @@ body {
     -webkit-background-clip: text;
 }
 
+.ls-btn{
+  margin: 15px;
+}
+
 @media (max-width: 767px) {
   .avatar img {
     max-width: 60%;
